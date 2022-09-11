@@ -1,0 +1,63 @@
+            /*  Navbar  */
+
+
+
+.navbar, li, a {
+      text-decoration: none;
+      list-style-type: none;
+      text-align: center;
+      font-family: 'Roboto', sans-serif;font-size: 12px;
+      color: rgb(120, 120, 120);
+      display: inline;
+      position: static;
+      margin: 10px;
+}
+    
+
+            /* Başlık */
+
+.header {
+      font-size: 16px;
+      color: #2C3639;
+      font-family: 'Roboto', sans-serif;
+      text-align:center;
+}
+
+.header2 {
+      font-size: 12px;
+      color: #e78c4f;
+      font-family: 'Roboto', sans-serif;
+      text-align:center;
+
+}
+
+            /* Paragraf */
+
+.paragraf1 {
+      font-size: 16px;
+      color: rgb(120, 120, 120);
+      text-align: center;
+      font-family: 'Roboto', sans-serif;
+      
+}
+
+
+.images {
+      width: 350px;
+      margin-top: 0px;
+      border-radius: 20px;
+      
+      
+}
+
+.header3 {
+      font-size: 16px;
+      color: #e78c4f;
+      text-align: center;
+      font-family: 'Roboto', sans-serif;
+      
+}
+
+
+
+
